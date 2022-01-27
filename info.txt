@@ -1,0 +1,7 @@
+package.json er mddhe jodi 
+dependency te ^ thake tar mane exact oi version tai install koro
+
+
+r jodi ~ thake tar mane in future new kono update ele ,patch file ele install kre nite hbe
+
+r jodi > thake thle oi version er thke besi version install koro or latest
