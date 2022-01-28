@@ -1,3 +1,8 @@
 *{
-    font-size: 100px;
+    margin: 0;padding: 0;
+}
+.container{
+    margin: 12px auto;
+    background-color: yellow;
+    max-width: 70%;
 }

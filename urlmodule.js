@@ -1,5 +1,3 @@
-import url from 'url';
-
 const myURL = new URL('https://nodejs.org/');
 myURL.pathname = 'api/url.html';
 myURL.search = '?d=e';
